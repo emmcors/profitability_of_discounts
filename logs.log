@@ -1,0 +1,3 @@
+2024-10-04 19:15:18,812:WARNING:C:\Users\Guill\AppData\Local\Temp\ipykernel_175308\570217783.py:2: DeprecationWarning: Importing display from IPython.core.display is deprecated since IPython 7.14, please import from IPython display
+  from IPython.core.display import display, HTML
+

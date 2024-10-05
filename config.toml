@@ -1,0 +1,12 @@
+[data]
+url = "https://downgit.github.io/#/home?url=https://github.com/manning-lp/Echo9k-estimating-the-profitability-of-discounts-lp/blob/189c168333070a0b7a47c2d22b31734c29a279f5/data/non_rand_discount.csv"
+source = "https://raw.githubusercontent.com/manning-lp/Echo9k-estimating-the-profitability-of-discounts-lp/refs/heads/main/data/non_rand_discount.csv?token=GHSAT0AAAAAACVBCZP2D4MLFTE6YG3JAKM2ZYARHQQ"
+
+[path]
+filename = "non_rand_discount.csv"
+data_raw = "data/raw"
+
+[data_origin]
+type = "string"
+required = true
+map = true
