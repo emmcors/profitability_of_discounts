@@ -1,0 +1,11 @@
+pandas
+matplotlib
+statsmodels
+seaborn
+pycaret
+toml
+fastparquet
+#sweetviz
+#facets-overview
+# pip install plotly
+#pip install flaml[ray]
