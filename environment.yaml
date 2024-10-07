@@ -7,13 +7,14 @@ dependencies:
   - matplotlib
   - statsmodels
   - seaborn
+  - python-graphviz
   # - flaml[ray]
   # - plotly
   - pip
   - pip:
     - toml
     - fastparquet
-    - graphviz
+    # - graphviz
 # statsmodels
 # seaborn
 # pycaret
