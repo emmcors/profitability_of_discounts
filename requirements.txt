@@ -5,6 +5,7 @@ seaborn
 pycaret
 toml
 fastparquet
+graphviz
 #sweetviz
 #facets-overview
 # pip install plotly
